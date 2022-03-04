@@ -68,4 +68,4 @@
 <img src="https://img.shields.io/badge/-alanj.goulart@gmail.com-red?style=flat&logo=Gmail&logoColor=white" alt="badge gmail">
 </a>
 
-<a href="https://app.daily.dev/GoulartAJG"><img src="https://api.daily.dev/devcards/b4d352d5120944cabb55594464439cad.png?r=rmt" width="400" alt="Alan José Goulart's Dev Card"/></a>
+<a href="https://app.daily.dev/GoulartAJG"><img src="https://api.daily.dev/devcards/b4d352d5120944cabb55594464439cad.png?r=a6v" width="400" alt="Alan José Goulart's Dev Card"/></a>
