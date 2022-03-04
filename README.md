@@ -62,10 +62,10 @@
 ### Personal Contact
 
 <a href="https://www.linkedin.com/in/alangoulartdev/">
-<img src="https://img.shields.io/badge/-carlosjunior137-blue?style=flat&logo=Linkedin&logoColor=white" alt="badge linkedin">
+<img src="https://img.shields.io/badge/-AlanGoulart-blue?style=flat&logo=Linkedin&logoColor=white" alt="badge linkedin">
 </a>
 <a href="mailto:alanj.goulart@gmail.com">
-<img src="https://img.shields.io/badge/-cj.moyses@gmail.com-red?style=flat&logo=Gmail&logoColor=white" alt="badge gmail">
+<img src="https://img.shields.io/badge/-alanj.goulart@gmail.com-red?style=flat&logo=Gmail&logoColor=white" alt="badge gmail">
 </a>
 
 <a href="https://app.daily.dev/GoulartAJG"><img src="https://api.daily.dev/devcards/b4d352d5120944cabb55594464439cad.png?r=rmt" width="400" alt="Alan José Goulart's Dev Card"/></a>
