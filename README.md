@@ -68,4 +68,4 @@
 <img src="https://img.shields.io/badge/-cj.moyses@gmail.com-red?style=flat&logo=Gmail&logoColor=white" alt="badge gmail">
 </a>
 
-<a href="https://app.daily.dev/CJStackMERN"><img src="https://api.daily.dev/devcards/7aca0a0598ee4f52a385655eaf8a0e0e.png?r=5n0" width="400" alt="Alan Goulart's Dev Card"/></a>
+<a href="https://app.daily.dev/GoulartAJG"><img src="https://api.daily.dev/devcards/b4d352d5120944cabb55594464439cad.png?r=rmt" width="400" alt="Alan José Goulart's Dev Card"/></a>
