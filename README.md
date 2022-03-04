@@ -56,8 +56,8 @@
 
 ### GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=CJBiohacker&show_icons=true&locale=en&layout=compact&theme=synthwave)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CJBiohacker&langs_count=10&show_icons=true&locale=en&layout=compact&theme=synthwave)
+![](https://github-readme-stats.vercel.app/api?username=GoulartAJG&show_icons=true&locale=en&layout=compact&theme=synthwave)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GoulartAJG&langs_count=10&show_icons=true&locale=en&layout=compact&theme=synthwave)
 
 ### Personal Contact
 
@@ -68,4 +68,4 @@
 <img src="https://img.shields.io/badge/-cj.moyses@gmail.com-red?style=flat&logo=Gmail&logoColor=white" alt="badge gmail">
 </a>
 
-<a href="https://app.daily.dev/CJStackMERN"><img src="https://api.daily.dev/devcards/7aca0a0598ee4f52a385655eaf8a0e0e.png?r=5n0" width="400" alt="Carlos Junior's Dev Card"/></a>
+<a href="https://app.daily.dev/CJStackMERN"><img src="https://api.daily.dev/devcards/7aca0a0598ee4f52a385655eaf8a0e0e.png?r=5n0" width="400" alt="Alan Goulart's Dev Card"/></a>
