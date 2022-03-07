@@ -57,7 +57,7 @@
 ### GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=GoulartAJG&show_icons=true&theme=radical)
-![https://github.com/GoulartAJG](https://github-readme-stats.vercel.app/api/top-langs/?username=GoulartAJG&layout=compact)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=GoulartAJG&layout=compact)](https://github.com/GoulartAJG/GoulartAJG)
 
 ### Personal Contact
 
