@@ -52,7 +52,7 @@
 ![](https://img.shields.io/badge/fedora-072b61?style=for-the-badge&logo=linux&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=FFFFFF)
 
-### [Certificates](https://github.com/AlanGoulart/Certificados)
+### [Certificates](https://github.com/GoulartAJG/GoulartAJG/tree/main/Certificados)
 
 ### GitHub Stats
 
