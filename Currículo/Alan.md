@@ -1,7 +1,7 @@
 # Alan José Goulart
 Cybersecurity expert and fullstack developer.
 
-# 
+# Contato
 
 :house:    São José dos Campos/SP <br>
 
@@ -11,15 +11,13 @@ Cybersecurity expert and fullstack developer.
 
 [tel]: https://api.whatsapp.com/send?phone=5512981798698
 
-# 
-Desenvolvedor FullStack em formação, focado em desenvolvimento backend e em Cybersegurança. Almejo me tornar um desenvolvedor FullStack especialista em Cybersegurança. Embora esteja focado em outros assuntos, amo atuar com o frontend e desenvolvimento mobile.
+# Sobre
 
-Conheça mais sobre mim, navegando em minha página
-
- segurança e backend, mas gosto de me aventurar no frontend. Em junho de 
-2020 troquei 14 anos de experiência na área de automação industrial, para iniciar minha transição de carreira. Sou uma 
-pessoa dinâmica, tenho excelente comunicação verbal e escrita, excelentes habilidades interpessoais e de 
-relacionamento com clientes internos e externos e facilidade para aprender rápido. 
+Desenvolvedor FullStack em formação, focado em desenvolvimento backend e em Cybersegurança.
+Embora esteja focado em outros assuntos, amo atuar com o frontend e desenvolvimento mobile.
+Troquei 14 anos de experiência na área de automação industrial, para iniciar minha transição de carreira.
+Sou uma pessoa dinâmica, com uma excelente comunicação verbal, escrita e  com excelentes habilidades interpessoais
+Adoro acampar, ler e estudar como hobbie.
 
 Hard Skills: Conectividade e Acesso, Políticas de Segurança e backups; Solução de problemas L2, L3, VLANs, RSTP, 
 BGP, OSPF; Protocolos de comunicação TCP/IP, VPN, IPv4 e IPv6, HTTP/HTTPS, FTP, SFTP, SSH, SSL, 61850 (MMS 
@@ -30,18 +28,19 @@ Html, CSS, JavaScript, C, C++ e Python; Especialista em ScadaBD; Configuração 
 load balancer, GPS, oscilógrafos, Redbox, Merging Units, relés de proteção e de controle; Dispositivos de segurança 
 (PFSense, AD, VMWare, FM e DLP); Ambiente virtual (WmWare, HyperV e VirtualBox); Firewalls. 
 
-Meu nome é David Allysson, sou Desenvolvedor Web apaixonado por PHP e Material Design, com grande interesse em Javascript e Bootstrap. Músico nas horas vagas, adoro acampar, ler e estudo psicologia como hobbie.
-
 ## Formação
-Instituto Federal de Educação, Ciência e Tecnologia do RN - Técnico em Informática <br>
-Concluído em 2016
 
-[_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md#técnico-em-informática)
+* **Digital House - DH**<br>
+*Desenvolvedor FullStack*<br>
+Conclusão em Julho/2024
 
-Instituto Federal de Educação, Ciência e Tecnologia do RN - Tecnólogo em Analise e Desenvolvimento de Sistemas <br>
-3 º Semestre - Finalização em 2020
+* **Universidade Paulista UNIP**<br>
+*Gestão em segurança da informação*<br>
+Conclusão em Dezembro/2022
 
-[_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md#tecnólogo-em-análise-e-desenvolvimento-de-sistemas)
+* **Universidade do Vale do Paraíba**<br>
+*Técnico em Eletrônica*<br>
+Conclusão em Dezembro/2007
 
 ## Experência Profissional
 * (2017 -  Atual) <br>
