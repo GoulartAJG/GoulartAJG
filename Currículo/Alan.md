@@ -7,10 +7,6 @@ email: alanj.goulart@gmail.com
 
 São José dos Campos - SP
 
-<a href="https://api.whatsapp.com/send?phone=551298179869">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="(12) 98179-8698"> 
-</a>
-
 Celular:   [(12) 98179-8698][tel]
 
 [tel]: https://api.whatsapp.com/send?phone=5512981798698
