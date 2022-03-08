@@ -43,25 +43,85 @@ Conclusão em Dezembro/2022
 Conclusão em Dezembro/2007
 
 ## Experência Profissional
-* (2017 -  Atual) <br>
-**IFRN - Campus Natal Central** -
-Estagiário na Diretoria de Pesquisa e Extensão do Campus (DIPEQ).
-  * Colaborar no desenvolvimento do projeto que monitora a evasão escolar do Campus.
-  * Corrigir bugs no projeto e desenvolver novas funcionalidades.
+
+* (09/2021 -  Atual) <br>
+**About Brasil** -
+Analista de sistemas
+  * Testes de aceitação em fabrica e campo(TAF e TAC);
+  * Desenvolvimento de  bases de dados para supervisórios SCADA;
+  * Configuração de relés de proteção, unidades de controle, switches, GPS, oscilógrafos, Redbox, Merging Units, balanceadores de rede e firewalls;
+  * Protocolos de comunicação TCP/IP, VPN, IPv4 e IPv6, HTTP/HTTPS, FTP, SFTP, SSH, SSL, 61850 (MMS e GOOSE), ModBus, DNP3, SNMP, 101, 104;
+  * Interpretação de diagramas funcionais, lógicos e de arquitetura de redes;
+  * Fiscalização de montagens elétricas e de redes em painéis;
+  * Implantação e administração de infraestrutura de redes LAN, WAN e WLAN;
+  * Comutação de redes em diferentes camadas OSI (L2, L3, VLANs, RSTP, BGP, OSPF);
+  * Switching (Spanning Tree, Port Channel, Trunk, VPC, VDC, etc) ;
+  * Routing (rotas estáticas, OSP, BGP, multicast);
+  * Virtualização de máquinas (VMWare, HyperV e VirtualBox).
+  * Domínio dos Ambientes Windows e Linux (Debian, Kali, Ubuntu, CentOS).
 
 
-* (2015 -  2016) <br>
-**Prefeitura de São Gonçalo do Amarante** -
-Estagiário na Subsecretaria de Tecnologia da Informação e Ciência (SETIC).
-  * Colaborar no desenvolvimento dos projetos da Prefeitura.
-  * Corrigir pequenos bugs no Front-end e no Back-end.
+* (01/2021 - 07/2021) <br>
+**AS2 Group ** -
+Técnico de automação
+  * Instalação/manutenção de sistemas de supervisório desenvolvidos pela empresa; 
+  * Criação de novas soluções e melhorias das tecnologias já desenvolvidas em linguagem C e C++;
+  * Análise e correção de falhas e anomalias dos sistemas;
+  * Elaboração de procedimentos de manutenção e criação de manuais técnicos;
+  * Apoio no desenvolvimento técnico dos outros funcionários;
+  * Responsável pela comunicação com o cliente, do primeiro contato até o pós- venda.
 
 
-* (2013 -  2015) <br>
-**IFRN - Campus São Gonçalo do Amarante** -
-Monitor na disciplina de Algoritmo e Programação de Computadores (Estruturada e Orientada a Objetos).
-  * Ser responsável pelo laboratório utilizado pelos alunos.
-  * Solucionar dúvidas referentes as disciplinas.
+* (11/2018 a 01/2020) <br>
+**Nepos** -
+Analista de Suporte
+  * Suporte técnico de chamados de clientes direcionados à fila de N2;
+  * Atendimento através dos canais de atendimentos Chat, Fone, Email e acesso remoto;
+  * Instalação de Software, drivers e periféricos;
+  * Criação de rotinas de backup nos servidores dos clientes (local e em nuvem);
+  * Registro de incidentes (chamados técnicos), no CRM de gestão Salesforce.;
+  * Configuração de Sistemas operacionais Windows e Linux (7, 8.1 e 10, Windows Server 2012, ubuntu, etc);
+  * Configuração de sistemas de telefonia ip (voip)
+  * Gerenciamento ferramentas de monitoramento de redes (zabbix e o prtg);
+  * Configuração e manutenção da base de dados nos clientes (SQL server 2012);
+  * Coleta e análise de dados e logs dos servidores; 
+  * Virtualização de máquinas (VMWare, HyperV e VirtualBox).
+  * Domínio dos Ambientes Windows e Linux (Debian, Kali, Ubuntu, CentOS).
+
+
+* (09/2021 -  Atual) <br>
+**About Brasil** -
+Analista de sistemas
+  * Testes de aceitação em fabrica e campo(TAF e TAC);
+  * Desenvolvimento de  bases de dados para supervisórios SCADA;
+  * Tconfiguração de relés de proteção, unidades de controle, switches, GPS, oscilógrafos, Redbox, Merging Units, balanceadores de rede e firewalls;
+  * Protocolos de comunicação TCP/IP, VPN, IPv4 e IPv6, HTTP/HTTPS, FTP, SFTP, SSH, SSL, 61850 (MMS e GOOSE), ModBus, DNP3, SNMP, 101, 104;
+  * Interpretação de diagramas funcionais, lógicos e de arquitetura de redes;
+  * Fiscalização de montagens elétricas e de redes em painéis;
+  * Implantação e administração de infraestrutura de redes LAN, WAN e WLAN;
+  * comutação de redes em diferentes camadas OSI (L2, L3, VLANs, RSTP, BGP, OSPF);
+  * Switching (Spanning Tree, Port Channel, Trunk, VPC, VDC, etc) ;
+  * Routing (rotas estáticas, OSP, BGP, multicast);
+  * Virtualização de máquinas (VMWare, HyperV e VirtualBox).
+  * Domínio dos Ambientes Windows e Linux (Debian, Kali, Ubuntu, CentOS).
+
+
+* (09/2021 -  Atual) <br>
+**About Brasil** -
+Analista de sistemas
+  * Testes de aceitação em fabrica e campo(TAF e TAC);
+  * Desenvolvimento de  bases de dados para supervisórios SCADA;
+  * Tconfiguração de relés de proteção, unidades de controle, switches, GPS, oscilógrafos, Redbox, Merging Units, balanceadores de rede e firewalls;
+  * Protocolos de comunicação TCP/IP, VPN, IPv4 e IPv6, HTTP/HTTPS, FTP, SFTP, SSH, SSL, 61850 (MMS e GOOSE), ModBus, DNP3, SNMP, 101, 104;
+  * Interpretação de diagramas funcionais, lógicos e de arquitetura de redes;
+  * Fiscalização de montagens elétricas e de redes em painéis;
+  * Implantação e administração de infraestrutura de redes LAN, WAN e WLAN;
+  * comutação de redes em diferentes camadas OSI (L2, L3, VLANs, RSTP, BGP, OSPF);
+  * Switching (Spanning Tree, Port Channel, Trunk, VPC, VDC, etc) ;
+  * Routing (rotas estáticas, OSP, BGP, multicast);
+  * Virtualização de máquinas (VMWare, HyperV e VirtualBox).
+  * Domínio dos Ambientes Windows e Linux (Debian, Kali, Ubuntu, CentOS).
+
 
 ## Conhecimentos
 
