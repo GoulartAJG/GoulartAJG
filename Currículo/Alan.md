@@ -124,10 +124,6 @@ Técnico em eletrônica
 
 ## Conhecimentos
 
-
- Pacote Office, ,, JIRA, Trello, ; 
-
-
 ### Idiomas
 * Inglês Avançado.
 * Espanhol Intermediário.
@@ -137,11 +133,10 @@ Técnico em eletrônica
 ### Gerais
 * Lógica de Programação.
 * Pacote Office.
-* Protocolos de comunicação de rede.
+* Protocolos de comunicação de redes.
 * Microsoft Project.
 * Dispositivos de segurança (PFSense, AD, VMWare, FM e DLP)
 * Ambiente virtual (WmWare, HyperV e VirtualBox)
-
 
 ### Metodologias Ágeis
 * Scrum.
@@ -151,22 +146,17 @@ Técnico em eletrônica
 * eXtreme Programming (XP).
 * Microsoft Solutions Framework (MSF).
 
-
 ### Sistemas Operacionais
 * Linux (Ubuntu, CentOS, fedora e Kali)
-* Windows (Server e 
+* Windows 
 
 ### Front-end
 * HTML5.
   * Markdown.
 * CSS (Design Responsivo).
   * SASS
- * JavaScript.
+* JavaScript.
 * Figma e wireframe.
-
-### UI Kits
-* Material Kit.
-* Materialize.
 * Bootstrap.
 
 ### Frameworks Front-end
@@ -174,13 +164,14 @@ Técnico em eletrônica
 * Angular.js
 
 ### Linguagens de Programação
-* Java.
+* C.
+* C++.
 * PHP.
-* Ruby.
 * Python.
 
 ### Frameworks Back-end
-* Laravel
+* Laravel.
+* Django.
 
 ### Banco de Dados
 * MySQL.
