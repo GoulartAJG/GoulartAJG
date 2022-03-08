@@ -17,16 +17,7 @@ Desenvolvedor FullStack em formação, focado em desenvolvimento backend e em Cy
 Embora esteja focado em outros assuntos, amo atuar com o frontend e desenvolvimento mobile.
 Troquei 14 anos de experiência na área de automação industrial, para iniciar minha transição de carreira.
 Sou uma pessoa dinâmica, com uma excelente comunicação verbal, escrita e  com excelentes habilidades interpessoais
-Adoro acampar, ler e estudar como hobbie.
-
-Hard Skills: Conectividade e Acesso, Políticas de Segurança e backups; Solução de problemas L2, L3, VLANs, RSTP, 
-BGP, OSPF; Protocolos de comunicação TCP/IP, VPN, IPv4 e IPv6, HTTP/HTTPS, FTP, SFTP, SSH, SSL, 61850 (MMS 
-e GOOSE), ModBus, DNP3, SNMP, 101, 104; Switching (Spanning Tree, Port Channel, Trunk, VPC, VDC); Email, 
-Firewall, Arquivos, VPS, WEB; Banco de Dados relacionais (MySql, Sql server e Oracle); Linux/Unix (Debian, Kali, 
-Ubuntu, CentOS); Git e Github; Pacote Office, Microsoft Project, Microsoft Planner, JIRA, Trello, figma, miro, wireframe; 
-Html, CSS, JavaScript, C, C++ e Python; Especialista em ScadaBD; Configuração de equipamentos, como switches, 
-load balancer, GPS, oscilógrafos, Redbox, Merging Units, relés de proteção e de controle; Dispositivos de segurança 
-(PFSense, AD, VMWare, FM e DLP); Ambiente virtual (WmWare, HyperV e VirtualBox); Firewalls. 
+Adoro acampar, ler, estudar e lutar JiuJitsu como hobbie.
 
 ## Formação
 
@@ -63,7 +54,7 @@ Analista de sistemas
 
 
 * (01/2021 - 07/2021) <br>
-**AS2 Group ** -
+**AS2 Group** -
 Técnico de automação
   * Instalação/manutenção de sistemas de supervisório desenvolvidos pela empresa; 
   * Criação de novas soluções e melhorias das tecnologias já desenvolvidas em linguagem C e C++;
@@ -106,56 +97,72 @@ Técnico Residente
   * Elaboração de documentação técnica e manuais de equipamentos. 
 
 
-* (09/2021 -  Atual) <br>
-**About Brasil** -
-Analista de sistemas
-  * Testes de aceitação em fabrica e campo(TAF e TAC);
-  * Desenvolvimento de  bases de dados para supervisórios SCADA;
-  * Tconfiguração de relés de proteção, unidades de controle, switches, GPS, oscilógrafos, Redbox, Merging Units, balanceadores de rede e firewalls;
-  * Protocolos de comunicação TCP/IP, VPN, IPv4 e IPv6, HTTP/HTTPS, FTP, SFTP, SSH, SSL, 61850 (MMS e GOOSE), ModBus, DNP3, SNMP, 101, 104;
-  * Interpretação de diagramas funcionais, lógicos e de arquitetura de redes;
-  * Fiscalização de montagens elétricas e de redes em painéis;
-  * Implantação e administração de infraestrutura de redes LAN, WAN e WLAN;
-  * comutação de redes em diferentes camadas OSI (L2, L3, VLANs, RSTP, BGP, OSPF);
-  * Switching (Spanning Tree, Port Channel, Trunk, VPC, VDC, etc) ;
-  * Routing (rotas estáticas, OSP, BGP, multicast);
-  * Virtualização de máquinas (VMWare, HyperV e VirtualBox).
-  * Domínio dos Ambientes Windows e Linux (Debian, Kali, Ubuntu, CentOS).
+* (12/2014 a 09/2015) <br>
+**Real It Informática** -
+Técnico em eletrônica
+  * Montagem de calhas e eletrodutos para a passagem de cabeamento de rede estruturada, telefonia e CFTV;
+  * Configuração Switches, Load Balancer, Roteadores, PABX e equipamentos de CFTV;
+  * Instalação e configuração de câmeras de CFTV
+  * Monitoramento ativo de equipamento e de Rede nos clientes;
+  * Análise para mudanças e melhorias na rede computacional de clientes;
+  * Manutenções de Hardware;
+  * Instalação e configuração de Sistemas Operacionais e softwares(Pacote office, Antivírus, SO Windows e Linux);
+  * Monitorava as rotinas de backup da rede corporativa.;
+ 
 
-
-* (09/2021 -  Atual) <br>
-**About Brasil** -
-Analista de sistemas
-  * Testes de aceitação em fabrica e campo(TAF e TAC);
-  * Desenvolvimento de  bases de dados para supervisórios SCADA;
-  * Tconfiguração de relés de proteção, unidades de controle, switches, GPS, oscilógrafos, Redbox, Merging Units, balanceadores de rede e firewalls;
-  * Protocolos de comunicação TCP/IP, VPN, IPv4 e IPv6, HTTP/HTTPS, FTP, SFTP, SSH, SSL, 61850 (MMS e GOOSE), ModBus, DNP3, SNMP, 101, 104;
-  * Interpretação de diagramas funcionais, lógicos e de arquitetura de redes;
-  * Fiscalização de montagens elétricas e de redes em painéis;
-  * Implantação e administração de infraestrutura de redes LAN, WAN e WLAN;
-  * comutação de redes em diferentes camadas OSI (L2, L3, VLANs, RSTP, BGP, OSPF);
-  * Switching (Spanning Tree, Port Channel, Trunk, VPC, VDC, etc) ;
-  * Routing (rotas estáticas, OSP, BGP, multicast);
-  * Virtualização de máquinas (VMWare, HyperV e VirtualBox).
-  * Domínio dos Ambientes Windows e Linux (Debian, Kali, Ubuntu, CentOS).
-
+* (02/2009 a 11/2014) <br>
+**Aeronáutica – DCTA** -
+Técnico em eletrônica
+  * Montagem e manutenção de redes locais e de computadores;
+  * Instalação de hardware, software e redes locais;
+  * Configuração Switches, Load Balancer, Roteadores, PABX e equipamentos de CFTV;
+  * Formatação de computadores quando necessário;
+  * Instalação e configuração de Impressoras locais e remotas;
+  * Suporte a usuários (dúvidas de utilização, sugestões de trabalho e Treinamento);
+  * Monitoramento de terminais computacionais da TI;
+  * Responsável pelo inventário mensal e anual de máquinas e equipamentos, relatório de ligações e fechamento de impressões;
 
 ## Conhecimentos
 
+
+ Pacote Office, ,, JIRA, Trello, ; 
+
+
+### Idiomas
+* Inglês Avançado.
+* Espanhol Intermediário.
+* Alemão Básico.
+* Português Fluente/Nativo.
+
 ### Gerais
 * Lógica de Programação.
-* Inglês suficiente para ler e entender.
+* Pacote Office.
+* Protocolos de comunicação de rede.
+* Microsoft Project.
+* Dispositivos de segurança (PFSense, AD, VMWare, FM e DLP)
+* Ambiente virtual (WmWare, HyperV e VirtualBox)
+
+
+### Metodologias Ágeis
+* Scrum.
+* Kanban.
+* Lean.
+* Feature Driven Development (FDD).
+* eXtreme Programming (XP).
+* Microsoft Solutions Framework (MSF).
+
 
 ### Sistemas Operacionais
-* Linux
-* Windows
+* Linux (Ubuntu, CentOS, fedora e Kali)
+* Windows (Server e 
 
 ### Front-end
-* HTML.
+* HTML5.
   * Markdown.
 * CSS (Design Responsivo).
   * SASS
-  * Arquitetura BEM
+ * JavaScript.
+* Figma e wireframe.
 
 ### UI Kits
 * Material Kit.
@@ -164,6 +171,7 @@ Analista de sistemas
 
 ### Frameworks Front-end
 * Vue.js
+* Angular.js
 
 ### Linguagens de Programação
 * Java.
@@ -177,9 +185,13 @@ Analista de sistemas
 ### Banco de Dados
 * MySQL.
 * PostgreSQL.
+* Mongo DB.
+* Oracle.
+* ScadaBD.
 
 ### Sistemas de controle de versão
 * Git.
+* Github.
 
 ## Projetos
 * [Site Pessoal](https://davidallysson.github.io/)
