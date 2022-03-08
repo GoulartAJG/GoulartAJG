@@ -211,7 +211,4 @@ Técnico em eletrônica
 *  [Linkedin](https://www.linkedin.com/in/alangoulartdev/)
 *  [Github](https://github.com/GoulartAJG)
 
-<br><br>
-
-## Me ajude!
-Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br>
+<br><br><br>
