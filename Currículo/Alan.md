@@ -17,7 +17,7 @@ Desenvolvedor FullStack em formação, focado em desenvolvimento backend e em Cy
 Embora esteja focado em outros assuntos, amo atuar com o frontend e desenvolvimento mobile.
 Troquei 14 anos de experiência na área de automação industrial, para iniciar minha transição de carreira.
 Sou uma pessoa dinâmica, com uma excelente comunicação verbal, escrita e  com excelentes habilidades interpessoais
-Adoro acampar, ler, estudar e lutar JiuJitsu como hobbie.
+Tenho como hobbies acampar, ler, estudar e lutar JiuJitsu.
 
 ## Formação
 
