@@ -3,11 +3,11 @@ Cybersecurity expert and fullstack developer.
 
 # Contato
 
-:house:    São José dos Campos/SP <br>
+email: alanj.goulart@gmail.com
 
-:envelope: alanj.goulart@gmail.com
+São José dos Campos - SP
 
-:iphone:   [(12) 98179-8698][tel]
+Celular:   [(12) 98179-8698][tel]
 
 [tel]: https://api.whatsapp.com/send?phone=5512981798698
 
@@ -185,38 +185,33 @@ Técnico em eletrônica
 * Github.
 
 ## Projetos
-* [Site Pessoal](https://davidallysson.github.io/)
-* [Engecall](https://davidallysson.github.io/Engecall)
+* [Site Pessoal](https://goulartajg.github.io/Curriculo/)
 
 ## Cursos Completos
-* Curso Git e Github para iniciantes (Udemy / [Certificado](#))
-* Curso Desenvolviento de Sistemas - Students To Business (S2B) (Microsoft / [Certificado](#))
+* Curso web completo: HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP 7, MySQL, JQuery, MVC, APIs, IONIC – Udemy
+* Certificado Ux e Design Thinking: Experiência do usuário – Udemy
+* Curso de Algoritmo e Lógica de Programação: C, C++, Python, C# e Java – Udemy
+* Certificado Arquitetura de Redes – Udemy
+* Certificado Windows Server 2012 R2 – Udemy
+* Curso Business Intelligence, SQL Server, MySQL, Oracle, T- SQL e PLSQL – Udemy
+* Certificado de montagem e manutenção de micros PC – Tecnoponta
+* Certificado profissionalizante de montagem e manutenção de PC – Udemy
+* Introdução ao Git e ao GitHub – Digital Innovation One
+* Linux: A introdução ao sistema operacional – Digital Innovation One
+* Shell script - Manipulando Arquivos – Digital Innovation One
+* Fundamentos de Arquitetura de Sistemas – Digital Innovation One
+* Arquitetura de Sistemas Avançado – Digital Innovation One
+* Introdução a orquestração de contêineres com Docker – Digital Innovation One
+* Conceitos e melhores práticas com bancos de dados PostgreSQL – Digital Innovation One
+* Trabalhando com Branches no GitHub – Digital Innovation One
+* Associado OCI Cloud Operations 2021 [1Z0-1067-21] - Oracle
 
-## Eventos como Participante
-* Campus Party Natal ( [Certificado](certificados/cpnatal.pdf) )
-* Code Girl - 5ª Edição ( [Certificado](certificados/code-girl-5.pdf) )
-* VII WTADS ( [Certificado](certificados/vii-workshop-tads.pdf) )
-* I EXPOTEC - IFRN/CM ( [Certificado](certificados/expotecifrncm-2017.pdf) )
-* 2nd French-Brazilian School on Big Data and Smart Cities ( [Certificado](certificados/smart-cities.pdf) )
-* I Workshop do Nucleo Avançado de Inovação Tecnológica (NAVI) ( [Certificado](certificados/workshop-navi.pdf) )
-* Code Girl - 2ª Edição ( [Certificado](certificados/code-girl-2.pdf) )
-* IX CONNEPI - Congresso Norte Nordeste de Pesquisa e Inovação (2014) ( [Certificado](certificados/connepi-2014.pdf) / [Mostra Tecnológica](certificados/mostra-tecnologica.pdf) )
-* OBR - Olimpíada Brasileira de Robótica (2014) ( [Certificado](certificados/obr-2014.pdf) / [Honra Ao Mérito](certificados/obr-honra-ao-merito.pdf) )
-
-## Eventos como Organizador
-* 2nd French-Brazilian School on Big Data and Smart Cities ( [Certificado](certificados/smart-cities-organization.pdf) )
-
-## Redes Sociais
-*  [Facebook](https://www.facebook.com/david.allysson.9)
-*  [Twitter](https://twitter.com/DaviDAllysson)
-*  [Linkedin](https://www.linkedin.com/in/david-allysson-527791118/)
-
-## Informações Adicionais
-* Premiado com a medalha de mérito da Olimpíada Brasileira de Robótica (OBR) – Modalidade Teórica (2014).
+## Siga-me nas redes!
+*  [Instagram](https://www.instagram.com/goulartajg/)
+*  [Linkedin](https://www.linkedin.com/in/alangoulartdev/)
+*  [Github](https://github.com/GoulartAJG)
 
 <br><br>
 
 ## Me ajude!
 Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br>
-
-Inspirado no [richmanzoli](https://github.com/richmanzoli/curriculo). Confere o dele lá também! :wink:
