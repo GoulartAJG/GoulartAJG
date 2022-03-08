@@ -1,0 +1,114 @@
+h3{
+    margin-top: 60px;
+    margin-bottom: 5px;
+    color: #513;
+}
+
+.resume{
+    width: 21cm;
+    height: 30.7cm;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff;
+    box-sizing: border-box;
+    box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
+}
+
+aside{
+    float: left;
+    width: 38%;
+    height: 100%;
+    background-color: #223;
+
+
+}
+
+aside h1{
+    text-align: center;
+    margin-bottom: 60px;
+    color: #fff;
+    font-size: 50px;
+}
+
+aside ul{
+    align-items: center;
+
+}
+
+aside ul li{
+    list-style-type: none;
+    color: #fff;
+    padding: 5px;
+    font-size: small;
+
+}
+
+aside ul li i{
+    color: #999;
+    margin-right: 5px;
+
+}
+
+aside .about{
+    padding-top: 80px;
+}
+aside .about h3{
+    color: #999;
+    padding-left: 45px;
+
+}
+
+aside .about i{
+    padding-right: 2px;
+}
+
+aside #aboutme{
+    color: white;
+    width: 230px;
+    padding-left: 30px;
+    text-align: justify;
+}
+main{
+    float: right;
+    width: 59%;
+    color: #889;
+    padding-right: 20px;
+
+}
+
+main section{
+    padding-left: 24px;
+}
+
+main .cabecalho{
+    border-bottom: solid 1px #e8a;
+}
+main i{
+    color: #e8a;
+}
+
+main #works, #uni7, #fanor{
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+main #works ul li{
+    font-size: 13.4px;
+}
+
+main #fanor{
+    padding-top: 5px;
+}
+
+main table{
+    padding-top: 20px;
+}
+
+main table td {
+    color: #888899;
+    padding-right: 15px;
+
+}
+
+
+
