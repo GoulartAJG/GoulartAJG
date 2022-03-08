@@ -49,7 +49,7 @@ Conclusão em Dezembro/2007
 Analista de sistemas
   * Testes de aceitação em fabrica e campo(TAF e TAC);
   * Desenvolvimento de  bases de dados para supervisórios SCADA;
-  * Configuração de relés de proteção, unidades de controle, switches, GPS, oscilógrafos, Redbox, Merging Units, balanceadores de rede e firewalls;
+  * Configuração de relés de proteção, switches, GPS, oscilógrafos, Redbox, Merging Units, balanceadores de rede e firewalls;
   * Protocolos de comunicação TCP/IP, VPN, IPv4 e IPv6, HTTP/HTTPS, FTP, SFTP, SSH, SSL, 61850 (MMS e GOOSE), ModBus, DNP3, SNMP, 101, 104;
   * Interpretação de diagramas funcionais, lógicos e de arquitetura de redes;
   * Fiscalização de montagens elétricas e de redes em painéis;
@@ -57,7 +57,8 @@ Analista de sistemas
   * Comutação de redes em diferentes camadas OSI (L2, L3, VLANs, RSTP, BGP, OSPF);
   * Switching (Spanning Tree, Port Channel, Trunk, VPC, VDC, etc) ;
   * Routing (rotas estáticas, OSP, BGP, multicast);
-  * Virtualização de máquinas (VMWare, HyperV e VirtualBox).
+  * Virtualização de máquinas (VMWare, HyperV e VirtualBox);
+  * Desenvolvimento de softwares para automatização de tarefas;
   * Domínio dos Ambientes Windows e Linux (Debian, Kali, Ubuntu, CentOS).
 
 
@@ -66,10 +67,11 @@ Analista de sistemas
 Técnico de automação
   * Instalação/manutenção de sistemas de supervisório desenvolvidos pela empresa; 
   * Criação de novas soluções e melhorias das tecnologias já desenvolvidas em linguagem C e C++;
+  * Desenvolvimento de softwares para automatização de tarefas;
   * Análise e correção de falhas e anomalias dos sistemas;
   * Elaboração de procedimentos de manutenção e criação de manuais técnicos;
   * Apoio no desenvolvimento técnico dos outros funcionários;
-  * Responsável pela comunicação com o cliente, do primeiro contato até o pós- venda.
+  * Responsável pela comunicação com o cliente, do primeiro contato até o pós-venda.
 
 
 * (11/2018 a 01/2020) <br>
@@ -79,14 +81,29 @@ Analista de Suporte
   * Atendimento através dos canais de atendimentos Chat, Fone, Email e acesso remoto;
   * Instalação de Software, drivers e periféricos;
   * Criação de rotinas de backup nos servidores dos clientes (local e em nuvem);
+  * Registro de incidentes (chamados técnicos), no CRM de gestão Salesforce;
+  * Configuração de Sistemas operacionais Windows e Linux (7, 8.1 e 10, Windows Server 2012, ubuntu, etc);
+  * Configuração de sistemas de telefonia ip (voip);
+  * Gerenciamento ferramentas de monitoramento de redes (zabbix e o prtg);
+  * Manutenção e Gerenciamento dos Bancos de Dados (Microsoft SQL Server e PostgreSQL);
+  * Coleta e análise de dados e logs dos servidores; 
+  * Virtualização de máquinas (VMWare, HyperV e VirtualBox);
+  * Domínio dos Ambientes Windows e Linux (Debian, Kali, Ubuntu, CentOS).
+
+* (11/2018 a 01/2020) <br>
+**Nepos** -
+Técnico Residente
+  * Instalação de Software, drivers e periféricos;
+  * Criação de rotinas de backup nos servidores dos clientes (local e em nuvem);
   * Registro de incidentes (chamados técnicos), no CRM de gestão Salesforce.;
   * Configuração de Sistemas operacionais Windows e Linux (7, 8.1 e 10, Windows Server 2012, ubuntu, etc);
-  * Configuração de sistemas de telefonia ip (voip)
+  * Configuração de sistemas de telefonia ip (voip);
   * Gerenciamento ferramentas de monitoramento de redes (zabbix e o prtg);
-  * Configuração e manutenção da base de dados nos clientes (SQL server 2012);
+  * Manutenção e Gerenciamento dos Bancos de Dados (Microsoft SQL Server e PostgreSQL);
   * Coleta e análise de dados e logs dos servidores; 
-  * Virtualização de máquinas (VMWare, HyperV e VirtualBox).
-  * Domínio dos Ambientes Windows e Linux (Debian, Kali, Ubuntu, CentOS).
+  * Virtualização de máquinas (VMWare, HyperV e VirtualBox);
+  * Domínio dos Ambientes Windows e Linux (Debian, Kali, Ubuntu, CentOS);
+  * Elaboração de documentação técnica e manuais de equipamentos. 
 
 
 * (09/2021 -  Atual) <br>
