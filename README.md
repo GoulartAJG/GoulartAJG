@@ -59,7 +59,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=GoulartAJG&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GoulartAJG&layout=compact&show_icons=true&locale=en&theme=synthwave)
 
-![](https://github-readme-stats.alan.app/api/top-langs/?username=GoulartAJG&layout=compact&show_icons=true&locale=en&theme=synthwave)
 
 ### Personal Contact
 
