@@ -20,7 +20,6 @@
 
 ![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=java&logoColor=FFFFFF)
-![](https://img.shields.io/badge/firebase-FFDA28?style=for-the-badge&logo=firebase&logoColor=FFFFFF)
 
 ### Learning
 
