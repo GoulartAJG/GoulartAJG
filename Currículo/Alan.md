@@ -38,7 +38,7 @@ Abril 2023 – Até o presente momento
 
 
 
-*Engenheiro de Dados – SDNA, São Paulo\
+Engenheiro de Dados – SDNA, São Paulo\
 Setembro 2022 – Fevereiro 2023
 - Construção de pipelines de dados.
 - Desenvolvimento e implantação de pipeline de dados via python, SQL e ferramentas ETL/ELT.
@@ -49,7 +49,7 @@ Setembro 2022 – Fevereiro 2023
 
 
 
-*Analista de Dados – Solutial, São José dos Campos\
+Analista de Dados – Solutial, São José dos Campos\
 Maio 2022 – Setembro 2022
 - Construção de pipelines de dados.
 - Integração de sistemas em diferentes formatos, realizando armazenamento e processamento de dados.
@@ -65,7 +65,7 @@ Maio 2022 – Setembro 2022
 
 
 
-*Analista de Sistemas – About Brasil, Taubaté\
+Analista de Sistemas – About Brasil, Taubaté\
 Outubro 2021 – Maio 2022
 - Testes de aceitação de fábrica e de campo (TAF e TAC) e desenvolvimento de sistemas de supervisório SCADA (SAGE).
 - Configuração de switches, GPS, oscilógrafos, Redbox, Merging Units, balanceadores de rede e firewalls.
@@ -82,7 +82,7 @@ Outubro 2021 – Maio 2022
 
 
 
-*Técnico de Automação – AS2 Group, São José dos Campos\
+Técnico de Automação – AS2 Group, São José dos Campos\
 Janeiro 2021 – Julho2021
 - Instalação e manutenção de sistemas supervisórios desenvolvidos pela empresa.
 - Criação de novas soluções e melhorias de tecnologias já desenvolvidas em linguagem C e C++.
@@ -95,7 +95,7 @@ Janeiro 2021 – Julho2021
 
 
 
-*Analista de Suporte - Nepos, São Paulo\
+___Analista de Suporte - Nepos, São Paulo\
 Novembro 2015 – Janeiro 2020
 - Suporte técnico para chamadas de clientes direcionadas para a fila N2.
 - Atendimento através dos canais de atendimento Chat, Telefone, E-mail e acesso remoto.
