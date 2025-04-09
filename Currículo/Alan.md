@@ -98,12 +98,12 @@ Novembro 2015 – Janeiro 2020
 - Virtualização de máquinas (VMWare, HyperV e VirtualBox).
 - Elaboração de documentação técnica e manuais de equipamentos.
 
-Idiomas\
+Idiomas
 - English - Proficiency Level
 - Spanish - Proficiency Level
 - Portuguese – Native Speaker
 
-Cursos\
+Cursos
 - AWS Expert, LinuxTips
 - Network Architecture, Udemy
 - Windows Server 2012 R2, Udemy
@@ -130,7 +130,7 @@ Cursos\
 - Python and Spark for Big Data and Machine Learning – 4LINUX
 - Segurança em Servidores Linux – 4LINUX
 
-Certificações\
+Certificações
 - MB-910: Microsoft Dynamics 365 Fundamentals (CRM) AI 900: Microsoft AI Fundamentals
 - SC-900: Microsoft Security, Compliance and Identity Fundamentals
 - DP-900: Microsoft Data Fundamentals
