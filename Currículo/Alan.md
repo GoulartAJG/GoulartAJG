@@ -2,7 +2,7 @@ Alan José Goulart\
 Analista de Infraestrutura e Cybersegurança\
 +55 (012) 9 9600 0423\
 alanj.goulart@gmail.com\
-https://www.linkedin.com/in/alangoulartdev\
+https://www.linkedin.com/in/alangoulartdev
 
 
 Resumo Profissional
