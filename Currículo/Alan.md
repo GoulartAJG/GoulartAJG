@@ -18,7 +18,7 @@ Engenharia de Software, ETEP SJC– Julho 2025
 
 Experiência Profissional\
 Gerente de Infraestrutura – SINAPSE, Rio de Janeiro\
-Abril 2023 – Até o presente momento\
+Abril 2023 – Até o presente momento
 - Criação, administração e sustentação de servidores Windows e linux (cloud e on-premisses).
 - Configuração de firewalls, switches, equipamentos de rede e VPN’s.
 - Virtualização de servidores e administração de ambientes críticos.
@@ -35,7 +35,7 @@ Abril 2023 – Até o presente momento\
 - Implantação de cultura DevOps e gestão de toda a área de tecnologia da informação da empresa.
 
 Engenheiro de Dados – SDNA, São Paulo\
-Setembro 2022 – Fevereiro 2023\
+Setembro 2022 – Fevereiro 2023
 - Construção de pipelines de dados.
 - Desenvolvimento e implantação de pipeline de dados via python, SQL e ferramentas ETL/ELT.
 - Análise de qualidade dos dados, utilizando python, SQL e ferramentas ETL/ELT (Data Quality).
@@ -44,7 +44,7 @@ Setembro 2022 – Fevereiro 2023\
 - Apoio na implantação de governança de dados da empresa.
 
 Analista de Dados – Solutial, São José dos Campos\
-Maio 2022 – Setembro 2022\
+Maio 2022 – Setembro 2022
 - Construção de pipelines de dados.
 - Integração de sistemas em diferentes formatos, realizando armazenamento e processamento de dados.
 - Limpeza e transformação de dados, a fim de torná-los prontos para modelagem de banco de dados relacionais.
@@ -58,7 +58,7 @@ Maio 2022 – Setembro 2022\
 - Versionamento de código e documentação de projetos.
 
 Analista de Sistemas – About Brasil, Taubaté\
-Outubro 2021 – Maio 2022\
+Outubro 2021 – Maio 2022
 - Testes de aceitação de fábrica e de campo (TAF e TAC) e desenvolvimento de sistemas de supervisório SCADA (SAGE).
 - Configuração de switches, GPS, oscilógrafos, Redbox, Merging Units, balanceadores de rede e firewalls.
 - Conhecimento dos protocolos TCP/IP, VPN, IPv4 e IPv6, HTTP/HTTPS, FTP, SFTP, SSH, SSL, TLS, 61850, ModBus, DNP3,SNMP.
@@ -73,7 +73,7 @@ Outubro 2021 – Maio 2022\
 - Domínio de ambientes Windows e Linux (Debian, Ubuntu, CentOS).
 
 Técnico de Automação – AS2 Group, São José dos Campos\
-Janeiro 2021 – Julho2021\
+Janeiro 2021 – Julho2021
 - Instalação e manutenção de sistemas supervisórios desenvolvidos pela empresa.
 - Criação de novas soluções e melhorias de tecnologias já desenvolvidas em linguagem C e C++.
 - Desenvolvimento de software para automação de tarefas.
@@ -84,7 +84,7 @@ Janeiro 2021 – Julho2021\
 - Responsável pela comunicação com o cliente, desde o primeiro contato até o pós-venda.
 
 Analista de Suporte - Nepos, São Paulo\
-Novembro 2015 – Janeiro 2020\
+Novembro 2015 – Janeiro 2020
 - Suporte técnico para chamadas de clientes direcionadas para a fila N2.
 - Atendimento através dos canais de atendimento Chat, Telefone, E-mail e acesso remoto.
 - Instalação de Software, drivers e periféricos.
