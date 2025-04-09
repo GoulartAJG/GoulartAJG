@@ -1,24 +1,24 @@
-Alan José Goulart\
+*Alan José Goulart\
 Analista de Infraestrutura e Cybersegurança\
 +55 (012) 9 9600 0423\
 alanj.goulart@gmail.com\
 https://www.linkedin.com/in/alangoulartdev
 
 
-Resumo Profissional\
+*Resumo Profissional\
 Sou um profissional com ampla experiência em infraestrutura de TI, segurança da informação e suporte. Possuo uma atuação sólida em ambientes
 Linux e Windows, gerenciamento de servidores, redes e implementação de políticas de segurança. Tenho um amplo conhecimento em administração
 e gerenciamento de banco de dados. E sou um profissional com uma abordagem orientada a resultados, mesclo conhecimentos técnicos à
 compreensão dos objetivos de negócios fornecendo suporte essencial para a tomada de decisões.
 
-Formação\
+*Formação\
 Técnico em Eletrônica, Univap - Dezembro 2007\
 Gestão em segurança da Informação, Unip SJC - Agosto 2023\
 Engenharia de Software, ETEP SJC– Julho 2025
 
 
 
-Experiência Profissional\
+*Experiência Profissional\
 Gerente de Infraestrutura – SINAPSE, Rio de Janeiro\
 Abril 2023 – Até o presente momento
 - Criação, administração e sustentação de servidores Windows e linux (cloud e on-premisses).
@@ -38,7 +38,7 @@ Abril 2023 – Até o presente momento
 
 
 
-Engenheiro de Dados – SDNA, São Paulo\
+*Engenheiro de Dados – SDNA, São Paulo\
 Setembro 2022 – Fevereiro 2023
 - Construção de pipelines de dados.
 - Desenvolvimento e implantação de pipeline de dados via python, SQL e ferramentas ETL/ELT.
@@ -49,7 +49,7 @@ Setembro 2022 – Fevereiro 2023
 
 
 
-Analista de Dados – Solutial, São José dos Campos\
+*Analista de Dados – Solutial, São José dos Campos\
 Maio 2022 – Setembro 2022
 - Construção de pipelines de dados.
 - Integração de sistemas em diferentes formatos, realizando armazenamento e processamento de dados.
@@ -65,7 +65,7 @@ Maio 2022 – Setembro 2022
 
 
 
-Analista de Sistemas – About Brasil, Taubaté\
+*Analista de Sistemas – About Brasil, Taubaté\
 Outubro 2021 – Maio 2022
 - Testes de aceitação de fábrica e de campo (TAF e TAC) e desenvolvimento de sistemas de supervisório SCADA (SAGE).
 - Configuração de switches, GPS, oscilógrafos, Redbox, Merging Units, balanceadores de rede e firewalls.
@@ -82,7 +82,7 @@ Outubro 2021 – Maio 2022
 
 
 
-Técnico de Automação – AS2 Group, São José dos Campos\
+*Técnico de Automação – AS2 Group, São José dos Campos\
 Janeiro 2021 – Julho2021
 - Instalação e manutenção de sistemas supervisórios desenvolvidos pela empresa.
 - Criação de novas soluções e melhorias de tecnologias já desenvolvidas em linguagem C e C++.
@@ -95,7 +95,7 @@ Janeiro 2021 – Julho2021
 
 
 
-Analista de Suporte - Nepos, São Paulo\
+*Analista de Suporte - Nepos, São Paulo\
 Novembro 2015 – Janeiro 2020
 - Suporte técnico para chamadas de clientes direcionadas para a fila N2.
 - Atendimento através dos canais de atendimento Chat, Telefone, E-mail e acesso remoto.
@@ -112,12 +112,12 @@ Novembro 2015 – Janeiro 2020
 
 
 
-Idiomas
+*Idiomas
 - English - Proficiency Level
 - Spanish - Proficiency Level
 - Portuguese – Native Speaker
 
-Cursos
+*Cursos
 - AWS Expert, LinuxTips
 - Network Architecture, Udemy
 - Windows Server 2012 R2, Udemy
@@ -146,7 +146,7 @@ Cursos
 
 
 
-Certificações
+*Certificações
 - MB-910: Microsoft Dynamics 365 Fundamentals (CRM) AI 900: Microsoft AI Fundamentals
 - SC-900: Microsoft Security, Compliance and Identity Fundamentals
 - DP-900: Microsoft Data Fundamentals
