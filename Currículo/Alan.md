@@ -19,7 +19,7 @@ Engenharia de Software, ETEP SJC– Julho 2025
 
 
 *Experiência Profissional*\
-Gerente de Infraestrutura – SINAPSE, Rio de Janeiro\
+___Gerente de Infraestrutura – SINAPSE, Rio de Janeiro___\
 Abril 2023 – Até o presente momento
 - Criação, administração e sustentação de servidores Windows e linux (cloud e on-premisses).
 - Configuração de firewalls, switches, equipamentos de rede e VPN’s.
@@ -38,7 +38,7 @@ Abril 2023 – Até o presente momento
 
 
 
-Engenheiro de Dados – SDNA, São Paulo\
+___Engenheiro de Dados – SDNA, São Paulo___\
 Setembro 2022 – Fevereiro 2023
 - Construção de pipelines de dados.
 - Desenvolvimento e implantação de pipeline de dados via python, SQL e ferramentas ETL/ELT.
@@ -49,7 +49,7 @@ Setembro 2022 – Fevereiro 2023
 
 
 
-Analista de Dados – Solutial, São José dos Campos\
+___Analista de Dados – Solutial, São José dos Campos___\
 Maio 2022 – Setembro 2022
 - Construção de pipelines de dados.
 - Integração de sistemas em diferentes formatos, realizando armazenamento e processamento de dados.
@@ -65,7 +65,7 @@ Maio 2022 – Setembro 2022
 
 
 
-Analista de Sistemas – About Brasil, Taubaté\
+___Analista de Sistemas – About Brasil, Taubaté___\
 Outubro 2021 – Maio 2022
 - Testes de aceitação de fábrica e de campo (TAF e TAC) e desenvolvimento de sistemas de supervisório SCADA (SAGE).
 - Configuração de switches, GPS, oscilógrafos, Redbox, Merging Units, balanceadores de rede e firewalls.
@@ -82,7 +82,7 @@ Outubro 2021 – Maio 2022
 
 
 
-Técnico de Automação – AS2 Group, São José dos Campos\
+___Técnico de Automação – AS2 Group, São José dos Campos___\
 Janeiro 2021 – Julho2021
 - Instalação e manutenção de sistemas supervisórios desenvolvidos pela empresa.
 - Criação de novas soluções e melhorias de tecnologias já desenvolvidas em linguagem C e C++.
