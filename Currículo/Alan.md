@@ -95,7 +95,7 @@ Janeiro 2021 – Julho2021
 
 
 
-___Analista de Suporte - Nepos, São Paulo\
+___Analista de Suporte - Nepos, São Paulo___\
 Novembro 2015 – Janeiro 2020
 - Suporte técnico para chamadas de clientes direcionadas para a fila N2.
 - Atendimento através dos canais de atendimento Chat, Telefone, E-mail e acesso remoto.
