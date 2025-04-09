@@ -5,20 +5,20 @@ alanj.goulart@gmail.com\
 https://www.linkedin.com/in/alangoulartdev
 
 
-*Resumo Profissional\
+*Resumo Profissional*\
 Sou um profissional com ampla experiência em infraestrutura de TI, segurança da informação e suporte. Possuo uma atuação sólida em ambientes
 Linux e Windows, gerenciamento de servidores, redes e implementação de políticas de segurança. Tenho um amplo conhecimento em administração
 e gerenciamento de banco de dados. E sou um profissional com uma abordagem orientada a resultados, mesclo conhecimentos técnicos à
 compreensão dos objetivos de negócios fornecendo suporte essencial para a tomada de decisões.
 
-*Formação\
+*Formação*\
 Técnico em Eletrônica, Univap - Dezembro 2007\
 Gestão em segurança da Informação, Unip SJC - Agosto 2023\
 Engenharia de Software, ETEP SJC– Julho 2025
 
 
 
-*Experiência Profissional\
+*Experiência Profissional*\
 Gerente de Infraestrutura – SINAPSE, Rio de Janeiro\
 Abril 2023 – Até o presente momento
 - Criação, administração e sustentação de servidores Windows e linux (cloud e on-premisses).
@@ -112,12 +112,12 @@ Novembro 2015 – Janeiro 2020
 
 
 
-*Idiomas
+*Idiomas*
 - English - Proficiency Level
 - Spanish - Proficiency Level
 - Portuguese – Native Speaker
 
-*Cursos
+*Cursos*
 - AWS Expert, LinuxTips
 - Network Architecture, Udemy
 - Windows Server 2012 R2, Udemy
@@ -146,7 +146,7 @@ Novembro 2015 – Janeiro 2020
 
 
 
-*Certificações
+*Certificações*
 - MB-910: Microsoft Dynamics 365 Fundamentals (CRM) AI 900: Microsoft AI Fundamentals
 - SC-900: Microsoft Security, Compliance and Identity Fundamentals
 - DP-900: Microsoft Data Fundamentals
