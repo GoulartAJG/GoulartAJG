@@ -16,6 +16,8 @@ Técnico em Eletrônica, Univap - Dezembro 2007\
 Gestão em segurança da Informação, Unip SJC - Agosto 2023\
 Engenharia de Software, ETEP SJC– Julho 2025
 
+
+
 Experiência Profissional\
 Gerente de Infraestrutura – SINAPSE, Rio de Janeiro\
 Abril 2023 – Até o presente momento
@@ -34,6 +36,8 @@ Abril 2023 – Até o presente momento
 - Responsável pela garantia de lei geral de proteção de dados (LGPD) na empresa.
 - Implantação de cultura DevOps e gestão de toda a área de tecnologia da informação da empresa.
 
+
+
 Engenheiro de Dados – SDNA, São Paulo\
 Setembro 2022 – Fevereiro 2023
 - Construção de pipelines de dados.
@@ -42,6 +46,8 @@ Setembro 2022 – Fevereiro 2023
 - Criava scripts em python, SQL e JAVA para realizar o tratamento dos dados dentro das ferramentas ETL/ELT.
 - Criação de APIs REST para extração de dados.
 - Apoio na implantação de governança de dados da empresa.
+
+
 
 Analista de Dados – Solutial, São José dos Campos\
 Maio 2022 – Setembro 2022
@@ -56,6 +62,8 @@ Maio 2022 – Setembro 2022
 - Programação de VBA para clientes e criação e manutenção de dashboards em Power BI.
 - Integração e consumos de APIs REST.
 - Versionamento de código e documentação de projetos.
+
+
 
 Analista de Sistemas – About Brasil, Taubaté\
 Outubro 2021 – Maio 2022
@@ -72,6 +80,8 @@ Outubro 2021 – Maio 2022
 - Desenvolvimento de software para automatização de tarefas com Python.
 - Domínio de ambientes Windows e Linux (Debian, Ubuntu, CentOS).
 
+
+
 Técnico de Automação – AS2 Group, São José dos Campos\
 Janeiro 2021 – Julho2021
 - Instalação e manutenção de sistemas supervisórios desenvolvidos pela empresa.
@@ -82,6 +92,8 @@ Janeiro 2021 – Julho2021
 - Desenvolvimento de procedimentos de manutenção e criação de manuais técnicos.
 - Apoio no desenvolvimento técnico dos demais colaboradores.
 - Responsável pela comunicação com o cliente, desde o primeiro contato até o pós-venda.
+
+
 
 Analista de Suporte - Nepos, São Paulo\
 Novembro 2015 – Janeiro 2020
@@ -97,6 +109,8 @@ Novembro 2015 – Janeiro 2020
 - Coleta e análise de dados e logs de servidores.
 - Virtualização de máquinas (VMWare, HyperV e VirtualBox).
 - Elaboração de documentação técnica e manuais de equipamentos.
+
+
 
 Idiomas
 - English - Proficiency Level
@@ -130,6 +144,8 @@ Cursos
 - Python and Spark for Big Data and Machine Learning – 4LINUX
 - Segurança em Servidores Linux – 4LINUX
 
+
+
 Certificações
 - MB-910: Microsoft Dynamics 365 Fundamentals (CRM) AI 900: Microsoft AI Fundamentals
 - SC-900: Microsoft Security, Compliance and Identity Fundamentals
@@ -138,8 +154,10 @@ Certificações
 - PL-900: Microsoft Power Platform Fundamentals
 - DBA FIREBIRD - firebirdsql.org
 
+
+
   
-*  [Linkedin](https://www.linkedin.com/in/alangoulartdev/)\
-*  [Github](https://github.com/GoulartAJG)\
+*  [Linkedin](https://www.linkedin.com/in/alangoulartdev/)
+*  [Github](https://github.com/GoulartAJG)
 
 <br><br><br>
