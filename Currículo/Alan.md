@@ -1,213 +1,141 @@
-# Alan José Goulart
-Cybersecurity expert and fullstack developer.
-
-# Contato
-
-email: alanj.goulart@gmail.com
-
-São José dos Campos - SP
-
-Celular:   [(12) 98179-8698][tel]
-
-[tel]: https://api.whatsapp.com/send?phone=5512981798698
-
-# Sobre
-
-Desenvolvedor FullStack em formação, focado em desenvolvimento backend e em Cybersegurança.
-Embora esteja focado em outros assuntos, amo atuar com o frontend e desenvolvimento mobile.
-Troquei 14 anos de experiência na área de automação industrial, para iniciar minha transição de carreira.
-Sou uma pessoa dinâmica, com uma excelente comunicação verbal, escrita e  com excelentes habilidades interpessoais
-Tenho como hobbies acampar, ler, estudar e lutar JiuJitsu.
-
-## Formação
-
-* **Digital House - DH**<br>
-*Desenvolvedor FullStack*<br>
-Conclusão em Julho/2024
-
-* **Universidade Paulista UNIP**<br>
-*Gestão em segurança da informação*<br>
-Conclusão em Dezembro/2022
-
-* **Universidade do Vale do Paraíba**<br>
-*Técnico em Eletrônica*<br>
-Conclusão em Dezembro/2007
-
-## Experência Profissional
-
-* (09/2021 -  Atual) <br>
-**About Brasil** -
-Analista de sistemas
-  * Testes de aceitação em fabrica e campo(TAF e TAC);
-  * Desenvolvimento de  bases de dados para supervisórios SCADA;
-  * Configuração de relés de proteção, switches, GPS, oscilógrafos, Redbox, Merging Units, balanceadores de rede e firewalls;
-  * Protocolos de comunicação TCP/IP, VPN, IPv4 e IPv6, HTTP/HTTPS, FTP, SFTP, SSH, SSL, 61850 (MMS e GOOSE), ModBus, DNP3, SNMP, 101, 104;
-  * Interpretação de diagramas funcionais, lógicos e de arquitetura de redes;
-  * Fiscalização de montagens elétricas e de redes em painéis;
-  * Implantação e administração de infraestrutura de redes LAN, WAN e WLAN;
-  * Comutação de redes em diferentes camadas OSI (L2, L3, VLANs, RSTP, BGP, OSPF);
-  * Switching (Spanning Tree, Port Channel, Trunk, VPC, VDC, etc) ;
-  * Routing (rotas estáticas, OSP, BGP, multicast);
-  * Virtualização de máquinas (VMWare, HyperV e VirtualBox);
-  * Desenvolvimento de softwares para automatização de tarefas;
-  * Domínio dos Ambientes Windows e Linux (Debian, Kali, Ubuntu, CentOS).
+Alan José Goulart
+Analista de Infraestrutura e Cybersegurança
++55 (012) 9 9600 0423
+alanj.goulart@gmail.comhttps://www.linkedin.com/in/alangoulartdev
 
 
-* (01/2021 - 07/2021) <br>
-**AS2 Group** -
-Técnico de automação
-  * Instalação/manutenção de sistemas de supervisório desenvolvidos pela empresa; 
-  * Criação de novas soluções e melhorias das tecnologias já desenvolvidas em linguagem C e C++;
-  * Desenvolvimento de softwares para automatização de tarefas;
-  * Análise e correção de falhas e anomalias dos sistemas;
-  * Elaboração de procedimentos de manutenção e criação de manuais técnicos;
-  * Apoio no desenvolvimento técnico dos outros funcionários;
-  * Responsável pela comunicação com o cliente, do primeiro contato até o pós-venda.
+Resumo Profissional
+Sou um profissional com ampla experiência em infraestrutura de TI, segurança da informação e suporte. Possuo uma atuação sólida em ambientes
+Linux e Windows, gerenciamento de servidores, redes e implementação de políticas de segurança. Tenho um amplo conhecimento em administração
+e gerenciamento de banco de dados. E sou um profissional com uma abordagem orientada a resultados, mesclo conhecimentos técnicos à
+compreensão dos objetivos de negócios fornecendo suporte essencial para a tomada de decisões.
 
+Formação
+Técnico em Eletrônica, Univap - Dezembro 2007
+Gestão em segurança da Informação, Unip SJC - Agosto 2023
+Engenharia de Software, ETEP SJC– Julho 2025
 
-* (11/2018 a 01/2020) <br>
-**Nepos** -
-Analista de Suporte
-  * Suporte técnico de chamados de clientes direcionados à fila de N2;
-  * Atendimento através dos canais de atendimentos Chat, Fone, Email e acesso remoto;
-  * Instalação de Software, drivers e periféricos;
-  * Criação de rotinas de backup nos servidores dos clientes (local e em nuvem);
-  * Registro de incidentes (chamados técnicos), no CRM de gestão Salesforce;
-  * Configuração de Sistemas operacionais Windows e Linux (7, 8.1 e 10, Windows Server 2012, ubuntu, etc);
-  * Configuração de sistemas de telefonia ip (voip);
-  * Gerenciamento ferramentas de monitoramento de redes (zabbix e o prtg);
-  * Manutenção e Gerenciamento dos Bancos de Dados (Microsoft SQL Server e PostgreSQL);
-  * Coleta e análise de dados e logs dos servidores; 
-  * Virtualização de máquinas (VMWare, HyperV e VirtualBox);
-  * Domínio dos Ambientes Windows e Linux (Debian, Kali, Ubuntu, CentOS).
+Experiência Profissional
+Gerente de Infraestrutura – SINAPSE, Rio de Janeiro
+Abril 2023 – Até o presente momento
+- Criação, administração e sustentação de servidores Windows e linux (cloud e on-premisses).
+- Configuração de firewalls, switches, equipamentos de rede e VPN’s.
+- Virtualização de servidores e administração de ambientes críticos.
+- Planejamento, coordenação e execução dos projetos de TI e criação de relatórios/documentações.
+- Automatização de rotinas com Scripting (shell, powershell, batch).
+- Criação e administração de ambientes de observabilidade (Zabbix, prometheus , grafana, graylog).
+- Responsável pela governaça de dados e pela mediação entre a empresa, os titulares dos dados pessoais e o governo (DPO-Data Protection Officer).
+- Responsável por fornecer suporte técnico e treinamento para a equipe, assegurando a adoção das melhores práticas nos servidores.
+- Mapeamento, análise, implementação e coordenação dos sistemas, políticas e procedimentos.
+- Implementação e monitoramento das políticas de segurança da informação para proteger os ativos da empresa
+- Criação, configuração e administração de Active Directory.
+- Implantação de rotinas de backup e segurança
+- Responsável pela garantia de lei geral de proteção de dados (LGPD) na empresa.
+- Implantação de cultura DevOps e gestão de toda a área de tecnologia da informação da empresa.
 
-* (11/2018 a 01/2020) <br>
-**Nepos** -
-Técnico Residente
-  * Instalação de Software, drivers e periféricos;
-  * Criação de rotinas de backup nos servidores dos clientes (local e em nuvem);
-  * Registro de incidentes (chamados técnicos), no CRM de gestão Salesforce.;
-  * Configuração de Sistemas operacionais Windows e Linux (7, 8.1 e 10, Windows Server 2012, ubuntu, etc);
-  * Configuração de sistemas de telefonia ip (voip);
-  * Gerenciamento ferramentas de monitoramento de redes (zabbix e o prtg);
-  * Manutenção e Gerenciamento dos Bancos de Dados (Microsoft SQL Server e PostgreSQL);
-  * Coleta e análise de dados e logs dos servidores; 
-  * Virtualização de máquinas (VMWare, HyperV e VirtualBox);
-  * Domínio dos Ambientes Windows e Linux (Debian, Kali, Ubuntu, CentOS);
-  * Elaboração de documentação técnica e manuais de equipamentos. 
+Engenheiro de Dados – SDNA, São Paulo
+Setembro 2022 – Fevereiro 2023
+- Construção de pipelines de dados.
+- Desenvolvimento e implantação de pipeline de dados via python, SQL e ferramentas ETL/ELT.
+- Análise de qualidade dos dados, utilizando python, SQL e ferramentas ETL/ELT (Data Quality).
+- Criava scripts em python, SQL e JAVA para realizar o tratamento dos dados dentro das ferramentas ETL/ELT.
+- Criação de APIs REST para extração de dados.
+- Apoio na implantação de governança de dados da empresa.
 
+Analista de Dados – Solutial, São José dos Campos
+Maio 2022 – Setembro 2022
+- Construção de pipelines de dados.
+- Integração de sistemas em diferentes formatos, realizando armazenamento e processamento de dados.
+- Limpeza e transformação de dados, a fim de torná-los prontos para modelagem de banco de dados relacionais.
+- Rotinas de backup e restauração de banco de dados.
+- Construção de fluxo de tratamento de dados com ferramentas ETL.
+- Melhoria e ajuste de desempenho quanto à configuração, modelagem e consultas SQL.
+- Migração de banco de dados para serviços em nuvem.
+- Desenvolvimento de scripts em Python, R e Shell.
+- Programação de VBA para clientes e criação e manutenção de dashboards em Power BI.
+- Integração e consumos de APIs REST.
+- Versionamento de código e documentação de projetos.
 
-* (12/2014 a 09/2015) <br>
-**Real It Informática** -
-Técnico em eletrônica
-  * Montagem de calhas e eletrodutos para a passagem de cabeamento de rede estruturada, telefonia e CFTV;
-  * Configuração Switches, Load Balancer, Roteadores, PABX e equipamentos de CFTV;
-  * Instalação e configuração de câmeras de CFTV
-  * Monitoramento ativo de equipamento e de Rede nos clientes;
-  * Análise para mudanças e melhorias na rede computacional de clientes;
-  * Manutenções de Hardware;
-  * Instalação e configuração de Sistemas Operacionais e softwares(Pacote office, Antivírus, SO Windows e Linux);
-  * Monitorava as rotinas de backup da rede corporativa.;
- 
+Analista de Sistemas – About Brasil, Taubaté
+Outubro 2021 – Maio 2022
+- Testes de aceitação de fábrica e de campo (TAF e TAC) e desenvolvimento de sistemas de supervisório SCADA (SAGE).
+- Configuração de switches, GPS, oscilógrafos, Redbox, Merging Units, balanceadores de rede e firewalls.
+- Conhecimento dos protocolos TCP/IP, VPN, IPv4 e IPv6, HTTP/HTTPS, FTP, SFTP, SSH, SSL, TLS, 61850, ModBus, DNP3,SNMP.
+- Interpretação de diagramas funcionais, lógicos e de arquitetura de rede.
+- Inspeção de montagens e redes elétricas em painéis.
+- Implantação e administração de infraestrutura de rede LAN, WAN e WLAN.
+- Comutação de rede em diferentes camadas OSI (L2, L3, VLANs, RSTP, BGP, OSPF).
+- Comutação (Spanning Tree, Port Channel, Trunk, VPC, VDC).
+- Roteamento (rotas estáticas, OSP, BGP, multicast).
+- Virtualização de máquinas (VMWare, HyperV e VirtualBox).
+- Desenvolvimento de software para automatização de tarefas com Python.
+- Domínio de ambientes Windows e Linux (Debian, Ubuntu, CentOS).
 
-* (02/2009 a 11/2014) <br>
-**Aeronáutica – DCTA** -
-Técnico em eletrônica
-  * Montagem e manutenção de redes locais e de computadores;
-  * Instalação de hardware, software e redes locais;
-  * Configuração Switches, Load Balancer, Roteadores, PABX e equipamentos de CFTV;
-  * Formatação de computadores quando necessário;
-  * Instalação e configuração de Impressoras locais e remotas;
-  * Suporte a usuários (dúvidas de utilização, sugestões de trabalho e Treinamento);
-  * Monitoramento de terminais computacionais da TI;
-  * Responsável pelo inventário mensal e anual de máquinas e equipamentos, relatório de ligações e fechamento de impressões;
+Técnico de Automação – AS2 Group, São José dos Campos
+Janeiro 2021 – Julho2021
+- Instalação e manutenção de sistemas supervisórios desenvolvidos pela empresa.
+- Criação de novas soluções e melhorias de tecnologias já desenvolvidas em linguagem C e C++.
+- Desenvolvimento de software para automação de tarefas.
+- Análise e correção de falhas e anomalias do sistema.
+- Inspeção de montagens e redes elétricas em painéis.
+- Desenvolvimento de procedimentos de manutenção e criação de manuais técnicos.
+- Apoio no desenvolvimento técnico dos demais colaboradores.
+- Responsável pela comunicação com o cliente, desde o primeiro contato até o pós-venda.
 
-## Conhecimentos
+Analista de Suporte - Nepos, São Paulo
+Novembro 2015 – Janeiro 2020
+- Suporte técnico para chamadas de clientes direcionadas para a fila N2.
+- Atendimento através dos canais de atendimento Chat, Telefone, E-mail e acesso remoto.
+- Instalação de Software, drivers e periféricos.
+- Criação de rotinas de backup nos servidores dos clientes.
+- Registro de incidentes (chamadas técnicas), no CRM de gestão Salesforce.
+- Configuração dos sistemas operacionais Windows e Linux (Windows Server 2012, Ubuntu, CentOs, Debian).
+- Configuração de sistemas de telefonia IP (voip).
+- Gerenciamento de ferramentas de monitoramento de rede (zabbix e prtg).
+- Manutenção e Gerenciamento de Bancos de Dados (Microsoft SQL Server e PostgreSQL).
+- Coleta e análise de dados e logs de servidores.
+- Virtualização de máquinas (VMWare, HyperV e VirtualBox).
+- Elaboração de documentação técnica e manuais de equipamentos.
 
-### Idiomas
-* Inglês Avançado.
-* Espanhol Intermediário.
-* Alemão Básico.
-* Português Fluente/Nativo.
+Idiomas
+- English - Proficiency Level
+- Spanish - Proficiency Level
+- Portuguese – Native Speaker
 
-### Gerais
-* Lógica de Programação.
-* Pacote Office.
-* Protocolos de comunicação de redes.
-* Microsoft Project.
-* Dispositivos de segurança (PFSense, AD, VMWare, FM e DLP)
-* Ambiente virtual (WmWare, HyperV e VirtualBox)
+Cursos
+- AWS Expert, LinuxTips
+- Network Architecture, Udemy
+- Windows Server 2012 R2, Udemy
+- Python Programming Algorithm and Logic: C, C++, Python, C#, Udemy
+- Python for Data, Data Science Academy
+- Microsoft Power BI for Business Intelligence, Data Science Academy
+- Cloud Fundamentals – 4LINUX
+- Containers Fundamentals – 4LINUX
+- Devops Essentials – 4LINUX
+- Lógica Programação com JavaScript – 4LINUX
+- Big Data Essentials – 4LINUX
+- Auditoria de Logs – 4LINUX
+- Soft Skills – 4LINUX
+- Linux System Administrator – 4LINUX
+- Linux Network Engineer – 4LINUX
+- Rancher: Gerenciamento de Cluster Kubernetes na AWS-Azure-GCP – 4LINUX
+- Infraestrutura Ágil com práticas DevOps – 4LINUX
+- Python Fundamentals – 4LINUX
+- Python For API And Devops Integration – 4LINUX
+- Administração PostgreSQL com Alta Disponibilidade – 4LINUX
+- DevSecOps: Segurança Ágil em pipelines CI/CD e DevOps – 4LINUX
+- Cloud Services Administrator: AWS,GCP,Azure – 4LINUX
+- Especialista Elastic Stack Elasticsearch, Logstash, Beats e Kibana – 4LINUX
+- Python and Spark for Big Data and Machine Learning – 4LINUX
+- Segurança em Servidores Linux – 4LINUX
 
-### Metodologias Ágeis
-* Scrum.
-* Kanban.
-* Lean.
-* Feature Driven Development (FDD).
-* eXtreme Programming (XP).
-* Microsoft Solutions Framework (MSF).
-
-### Sistemas Operacionais
-* Linux (Ubuntu, CentOS, fedora e Kali)
-* Windows 
-
-### Front-end
-* HTML5.
-  * Markdown.
-* CSS (Design Responsivo).
-  * SASS
-* JavaScript.
-* Figma e wireframe.
-* Bootstrap.
-
-### Frameworks Front-end
-* Vue.js
-* Angular.js
-
-### Linguagens de Programação
-* C.
-* C++.
-* PHP.
-* Python.
-
-### Frameworks Back-end
-* Laravel.
-* Django.
-
-### Banco de Dados
-* MySQL.
-* PostgreSQL.
-* Mongo DB.
-* Oracle.
-* ScadaBD.
-
-### Sistemas de controle de versão
-* Git.
-* Github.
-
-## Projetos
-* [Site Pessoal](https://goulartajg.github.io/Curriculo/)
-
-## Cursos Completos
-* Curso web completo: HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP 7, MySQL, JQuery, MVC, APIs, IONIC – Udemy
-* Certificado Ux e Design Thinking: Experiência do usuário – Udemy
-* Curso de Algoritmo e Lógica de Programação: C, C++, Python, C# e Java – Udemy
-* Certificado Arquitetura de Redes – Udemy
-* Certificado Windows Server 2012 R2 – Udemy
-* Curso Business Intelligence, SQL Server, MySQL, Oracle, T- SQL e PLSQL – Udemy
-* Certificado de montagem e manutenção de micros PC – Tecnoponta
-* Certificado profissionalizante de montagem e manutenção de PC – Udemy
-* Introdução ao Git e ao GitHub – Digital Innovation One
-* Linux: A introdução ao sistema operacional – Digital Innovation One
-* Shell script - Manipulando Arquivos – Digital Innovation One
-* Fundamentos de Arquitetura de Sistemas – Digital Innovation One
-* Arquitetura de Sistemas Avançado – Digital Innovation One
-* Introdução a orquestração de contêineres com Docker – Digital Innovation One
-* Conceitos e melhores práticas com bancos de dados PostgreSQL – Digital Innovation One
-* Trabalhando com Branches no GitHub – Digital Innovation One
-* Associado OCI Cloud Operations 2021 [1Z0-1067-21] - Oracle
-
-## Siga-me nas redes!
-*  [Instagram](https://www.instagram.com/goulartajg/)
+Certificações
+- MB-910: Microsoft Dynamics 365 Fundamentals (CRM) AI 900: Microsoft AI Fundamentals
+- SC-900: Microsoft Security, Compliance and Identity Fundamentals
+- DP-900: Microsoft Data Fundamentals
+- AZ-900: Microsoft Fundamentals AWS Certified Cloud Pratictioner OCI Cloud
+- PL-900: Microsoft Power Platform Fundamentals
+- DBA FIREBIRD - firebirdsql.org
 *  [Linkedin](https://www.linkedin.com/in/alangoulartdev/)
 *  [Github](https://github.com/GoulartAJG)
 
